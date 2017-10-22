@@ -19,3 +19,7 @@ The fault output is active low. Use your own pull up to the fault line and if th
 
 Here is a PDF that explains how the wiring between modules and the master board is supposed to be:
 https://cdn.hackaday.io/files/10098432032832/wiring.pdf
+
+
+
+22/10/17 : Added CAN functionality and translated to Designspark 8 format.
